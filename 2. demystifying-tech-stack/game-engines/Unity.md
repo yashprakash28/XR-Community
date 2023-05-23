@@ -32,8 +32,8 @@ Cost-effective: Unity is a cost-effective engine that is available for free for 
 
 ## Resources
 
-[Unity Website](https://unity3d.com/)
-[Unity Documentation](https://docs.unity3d.com/)
-[Unity Asset Store](https://assetstore.unity.com/)
-[Unity Forums](https://forum.unity.com/)
-[Unity YouTube Channel](https://www.youtube.com/user/Unity3D)
+[Unity Website](https://unity3d.com/)<br>
+[Unity Documentation](https://docs.unity3d.com/)<br>
+[Unity Asset Store](https://assetstore.unity.com/)<br>
+[Unity Forums](https://forum.unity.com/)<br>
+[Unity YouTube Channel](https://www.youtube.com/user/Unity3D)<br>
