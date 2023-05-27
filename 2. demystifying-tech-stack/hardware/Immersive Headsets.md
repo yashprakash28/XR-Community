@@ -31,14 +31,14 @@ Industrially Available: <br>
 
 | Feature |	Smartphone-based VR headsets |	Standalone VR headsets | PC VR headsets |
 |---------|------------------------------|-------------------------|----------------|
-|Price|	|Affordable|	|Mid-range|	|High-end|
-|Display|	|Smartphone screen|	|Built-in display|	|Built-in display|
-|Field of view|	|Limited|	|Good|	|Excellent|
-|Resolution|	|Low|	|Good|	|Excellent|
-|Refresh rate|	|Low|	|Good|	|Excellent|
-|Latency|	|High|	|Good|	|Excellent|
-|Comfort|	|Fair|	|Good|	|Excellent|
-|Portability|	|Excellent|	|Good|	|Fair|
-|Compatibility|	|Wide range of smartphones|	|Limited|	Wide range of PCs|
-|Features|	|Basic|	|Advanced|	|Advanced|
-|Best for|	|Casual VR users|	|Enthusiast VR users|	|Professional VR users|
+| Price | Affordable | Mid-range | High-end |
+| Display | Smartphone screen | Built-in display | Built-in display |
+| Field of view | Limited | Good | Excellent |
+| Resolution | Low | Good | Excellent |
+| Refresh rate | Low | Good | Excellent |
+| Latency | High | Good | Excellent |
+| Comfort | Fair	| Good | Excellent |
+| Portability | Excellent | Good | Fair |
+| Compatibility	| Wide range of smartphones | Limited | Wide range of PCs |
+| Features | Basic | Advanced | Advanced |
+| Best for | Casual VR users | Enthusiast VR users | Professional VR users |
