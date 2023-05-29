@@ -40,5 +40,5 @@ This repository is licensed under the [MIT License](https://github.com/yashpraka
 
 <hr>
 
-We hope that the XR Community repository serves as a valuable resource for your XR journey. Explore, learn, collaborate, and let's push the boundaries of Extended Reality together! If you have any questions or suggestions, please don't hesitate to reach out at yasharsh.28@gmail.com.
+We hope that the XR Community repository serves as a valuable resource for your XR journey. Explore, learn, collaborate, and let's push the boundaries of Extended Reality together! If you have any questions or suggestions, please don't hesitate to reach out at yasharsh.28@gmail.com and jainharshita561@gmail.com
 
