@@ -6,4 +6,4 @@ Hackathon Description | This challenge is seeking developers to create a new Vir
 Applications Open | May
 Mode | Virtual
 Prizes |  $70,000 in total prizes
-Hackathon URL | https://www.nasa.gov/marsxr-challenge
+Hackathon URL | [MarsXR](https://www.nasa.gov/marsxr-challenge)

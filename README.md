@@ -12,8 +12,8 @@ Welcome to the **XR Community** repository, your one-stop-centralized hub for al
 |:---------------:|:---------------------|
 |1|[Learning Resources](https://github.com/yashprakash28/XR-Community/tree/main/1.%20learning-resources)|
 |2|[Demystifying Tech-stack](https://github.com/yashprakash28/XR-Community/tree/main/2.%20demystifying-tech-stack)|
-|3|[Fellowships](https://github.com/yashprakash28/XR-Community/tree/main/3.%20fellowships)|
-|4|[Hackathons](https://github.com/yashprakash28/XR-Community/tree/main/4.%20hackathons)|
+|3|[Fellowships-Hackathons](https://github.com/yashprakash28/XR-Community/tree/main/3.%20fellowships)|
+|4|[Find Relevant Industry](https://github.com/yashprakash28/XR-Community/tree/main/4.%20hackathons)|
 |5|[Learn by Doing](https://github.com/yashprakash28/XR-Community/tree/main/5.%20learn-by-doing)|
 |6|[N-Days-Challenge](https://github.com/yashprakash28/XR-Community/tree/main/6.%20n-days-challenge)|
 |7|[Keep yourself up-to-date ](https://github.com/yashprakash28/XR-Community/tree/main/8.%20keep-yourself-up-to-date)|
