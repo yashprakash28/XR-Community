@@ -1,1 +1,0 @@
-# NASA Space Apps Challenge
