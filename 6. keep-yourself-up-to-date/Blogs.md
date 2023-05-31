@@ -14,5 +14,5 @@
 
 ## Tips for contributing
 
-1. Adehere to the specified format as above.
+1. Adhere to the specified format as above.
 2. One Line Summary - Mention what the blog is about and what to expect.
