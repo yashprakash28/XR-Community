@@ -1,1 +1,0 @@
-# Ajna Creator Program
