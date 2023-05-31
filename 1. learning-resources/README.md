@@ -9,4 +9,4 @@
 
 ## Tips for contributing
 
-1. Adehere to the specified format as above.
+1. Adhere to the specified format as above.
