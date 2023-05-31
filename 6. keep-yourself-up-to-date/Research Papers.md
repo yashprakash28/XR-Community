@@ -2,8 +2,6 @@
 |:----------|:---------|:---------|:---------|
 |A Survey on Metaverse: Fundamentals, Security, and Privacy|https://arxiv.org/abs/2203.02662|The paper surveys the attributes of a fully immersive, hyper spatiotemporal, and self-sustaining virtual shared space for humans to play, work, and socialize.|This is your dictionary to all the metaverse paradigms. Visit this again and again.|
 
-<br>
-<br>
 ## Tips for contributing
 
 1. Adehere to the specified format as above.

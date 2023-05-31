@@ -11,7 +11,7 @@ We encourage the community (especially beginners) to actively participate in thi
 
    2. Clone the forked repository to your local machine.
 
-    git clone https://github.com/your-username/learn-xr.git
+    git clone https://github.com/your-username/challenge-xr.git
 
    4. Create a new file or a directory with a descriptive name that summarizes your domain and the skills targeted.
    

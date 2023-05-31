@@ -9,9 +9,6 @@
 |The Ghost Howls|https://skarredghost.com/|A blog that covers VR, AR, and other immersive technologies.|
 |XRDC Blog|https://gdconf.com/news/|A blog that covers the XR Developer Conference (XRDC), an annual conference for developers of VR, AR, and other immersive technologies.|
 
-<br>
-<br>
-
 ## Tips for contributing
 
 1. Adhere to the specified format as above.
