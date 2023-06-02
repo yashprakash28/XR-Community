@@ -2,8 +2,6 @@
 |:------------------|:-----------------|
 Hackathon Description | MIT Reality Hack is an annual community-run XR hackathon comprising thought leaders, brand mentors and creators, participants, students, and technology lovers, who come together and attend tech workshops, talks, discussions, fireside chats, collaborations, hacking, and more. Participants of various backgrounds and all skill levels attend from all over the world.
 
-It is typically held at MIT co-hosted by a team of community volunteers (alumni, friends, and others) with the Reality Hack Organization 501-c3 and a student org VR/AR@MIT. We all share a common goal: to educate, empower and enable people to be part of the XR industry. 
-
 Applications Open | December
 
 Mode | Offline
