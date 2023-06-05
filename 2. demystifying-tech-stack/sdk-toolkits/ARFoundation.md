@@ -17,3 +17,6 @@ Official Documentation Link : [ARfoundation](https://docs.unity3d.com/Packages/c
 Dilmer Valecillos : Youtube playlist by dilmer regarding AR foundation workings ([Unity AR Foundation Tutorials For Beginners](https://youtube.com/playlist?list=PLQMQNmwN3FvzCWfvCvq2AYh1CFnTlv2Es))
 
 Dinesh Pnni : Youtube playlist on [Unity & AR Foundation](https://youtube.com/playlist?list=PL6VJLOFcTt7awvyIGIbLLPOBrW6-Y1R-J)
+
+## Limitations
+In adnroid it only works with the devices compatible with ARCore under the [list](https://developers.google.com/ar/devices) provided by Google 
