@@ -6,6 +6,7 @@
 |[MIT Computer Graphics](https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh)|Insight into the core concepts of Computer Graphics|Free|
 |[Ajna Creator Program](https://www.ajnacreator.com/)|India’s first XR content creation program|Paid|
 |[TechXR Courses](https://techxr.co/)|Wide range of coursware for different levels of expertise|Paid|
+|[Getting Started with Spatial Experience Designing](https://twitter.com/OlamideTowobola/status/1665985887048540162?t=G2VqDcUkhoPCHeXEUEaVlg&s=08)|Product design, Graphic design, Web design, UX design, Webflow, Figma, UI/UX|Free|
 
 ## Tips for contributing
 
