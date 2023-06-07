@@ -12,6 +12,7 @@
 |Metaverse Debut with Unity|https://blog.unity.com/industry/metaverse-minute-how-to-get-started||
 |Tim Cook about Future of Apple|https://www.gq.com/story/tim-cook-global-creativity-awards-cover-2023||
 |Introduction to WebGPU|https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu||
+|NVIDIA making Earth's Digital Twin|https://blogs.nvidia.com/blog/2021/11/12/earth-2-supercomputer/||
 
 ## Tips for contributing
 
