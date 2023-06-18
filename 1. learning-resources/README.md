@@ -7,7 +7,7 @@
 |[Ajna Creator Program](https://www.ajnacreator.com/)|India’s first XR content creation program|Paid|
 |[TechXR Courses](https://techxr.co/)|Wide range of coursware for different levels of expertise|Paid|
 |[Getting Started with Spatial Experience Designing](https://twitter.com/OlamideTowobola/status/1665985887048540162?t=G2VqDcUkhoPCHeXEUEaVlg&s=08)|Product design, Graphic design, Web design, UX design, Webflow, Figma, UI/UX|Free|
+|[XR Experience Design I](https://www.uclaextension.edu/design-arts/immersive-media-vr-ar-xr/course/xr-experience-design-i-desma-x-48022)|11 week program that provides a foundation in how to design effective and meaningful immersive content. 975 USD|Paid, Remote|
 
 ## Tips for contributing
-
 1. Adhere to the specified format as above.
