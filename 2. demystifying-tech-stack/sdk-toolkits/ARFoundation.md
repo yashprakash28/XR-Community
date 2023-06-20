@@ -19,7 +19,7 @@ Dilmer Valecillos : Youtube playlist by dilmer regarding AR foundation workings 
 Dinesh Pnni : Youtube playlist on [Unity & AR Foundation](https://youtube.com/playlist?list=PL6VJLOFcTt7awvyIGIbLLPOBrW6-Y1R-J)
 
 ## Limitations
-In adnroid it only works with the devices compatible with ARCore under the [list](https://developers.google.com/ar/devices) provided by Google 
+In android it only works with the devices compatible with ARCore under the [list](https://developers.google.com/ar/devices) provided by Google 
 
 ##Latest upadates
 1. AR Session Origin is now deprecated and replaced by XR Origin, which is suitable for both AR and VR applications. XR Origin is part of the XR Core Utilities package, a new dependency of AR Foundation.
